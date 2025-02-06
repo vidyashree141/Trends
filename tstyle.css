@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+header {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header h3 {
+    margin: 5px 0;
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+nav {
+    background-color: burlywood;
+    text-align: center;
+    padding: 10px 0;
+}
+
+article {
+    margin: 20px auto;
+    width: 800px;
+    padding: 10px;
+}
+
+section {
+    margin: 20px;
+}
+
+section h2 {
+    color: #222;
+    font-size: 1.8rem;
+    border: 2px solid #ddd;
+    padding: 5px;
+    margin: 10px;
+}
+ol {
+    padding: 20px;
+}
+
+ol li {
+    margin: 5px 0;
+}
+aside {
+    background-color: floralwhite;
+    padding: 10px;
+    border-style:dashed ;
+    margin: 20px;
+    float: right;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+}
